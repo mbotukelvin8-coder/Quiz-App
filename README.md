@@ -24,8 +24,6 @@ The program asks multiple-choice questions and keeps track of the user's score.
 1. Install Node.js
 2. Clone the repository
 
-git clone https://github.com/yourusername/quiz-app.git
-
 3. Go to folder
 
 cd quiz-app
@@ -50,6 +48,6 @@ Correct
 
 ## Author
 
-Your Name
-Computer Science Student  
+Kelvin Mbotu
+Computer Science B.Sc Degree holder  
 Interested in Software Engineering / DevOps / Fullstack Development
